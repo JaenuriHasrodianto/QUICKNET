@@ -1,0 +1,28 @@
+.allbody {
+  background-image: url(img/fiber\ port.jpg);
+}
+
+/* css opoup */
+
+/* akhir css opoup */
+.card {
+  background-color: #0786ee00;
+  border-radius: 2px;
+}
+
+.card-body {
+  text-align: center;
+  align-items: center;
+}
+
+.table {
+  margin-bottom: 10rem;
+}
+
+.cardt {
+  display: none;
+}
+
+#idpelanggan {
+  color: aliceblue;
+}
